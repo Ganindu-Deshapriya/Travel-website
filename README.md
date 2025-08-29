@@ -1,5 +1,7 @@
-Hi 
+<h1>Travel Website Landing Sample Page</h1>
 
-This is Just a fun little landing page i created to see how far i can go with Basic HTML,CSS and JS
+Hi Everyone! 👋
+
+This is Just a fun little landing page I created to see how far I can go with Basic HTML,CSS and JS 😅
 
 you can check it out from here : https://ganindu-deshapriya.github.io/Travel-website/
